@@ -1,5 +1,5 @@
 ﻿//
-// This Code is written with some help from (Microsoft Copilet & POE Assistance)
+// This Code is written with some help from (Microsoft Copilot & POE Assistant)
 //
 
 Console.Write("Enter your first input : ");
